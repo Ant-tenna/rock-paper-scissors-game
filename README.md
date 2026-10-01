@@ -1,2 +1,3 @@
-# A mini rock paper scissors game using raylib in c++
-help
+# (Not) epic rock paper scissors game
+
+A mini rock paper scissors game using raylib in c++
